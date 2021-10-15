@@ -43,6 +43,6 @@ meu_dindin -= 900 //subtrai 900
 await setData(message.author.id, "money", meu_dindin) // seta novamente o valor alterado
 ```
 
-**para baixar o bot clique no botão verde no canto superior direito > download zip**
+**para baixar o bot clique no botão verde no canto superior direito(escrito "code") > download zip**
 
 
