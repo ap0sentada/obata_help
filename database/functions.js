@@ -10,6 +10,5 @@ module.exports = (db) => {
     }
     global.setData = async function(user_id, key, value) {
         await db.set("storage", `${user_id}_${key}`, value);
-
     }
 }
