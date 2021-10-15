@@ -10,7 +10,7 @@
 ## instalação
 abra o terminal e rode o comando para instalar todos os packages: 
 ```js
-npm istall
+npm install
 ```
 #### sobre a database
 
